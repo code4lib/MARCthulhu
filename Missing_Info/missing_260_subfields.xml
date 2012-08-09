@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+  <record>
+    <leader>     nam  22     uu 4500</leader>
+    <controlfield tag="001">MC0666</controlfield>
+    <controlfield tag="008">      |           ||||||||||||||||||||||</controlfield>
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">The record that should not have been</subfield>
+    </datafield>
+    <datafield tag="710" ind1="2" ind2=" ">
+      <subfield code="a">Miskatonic University, Engineering</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Pabodie, Frank H.</subfield>
+      <subfield code="e">creator</subfield>
+      <subfield code="u">Miskatonic University, Engineering</subfield>
+    </datafield>
+    <datafield tag="655" ind1=" " ind2="7">
+      <subfield code="a">Guide</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" "/>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">#84</subfield>
+    </datafield>
+  </record>
+</collection>

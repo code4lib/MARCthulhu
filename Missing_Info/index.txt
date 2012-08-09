@@ -1,0 +1,26 @@
+missing_260_subfields.xml, missing_260_subfields.mrc -
+
+  This record is based off of several that were produced from a
+  long pipeline of transformations, starting with a relational
+  database and ending in MARC.  I've replaced the text of the
+  fields to help protect the identity of the actual source. I've
+  also removed some other issues so that this record can be an
+  example of just the missing subfields. I've included both the
+  final record produced (.mrc) and the second to last step, (.xml).
+  The .mrc file was produced by:
+
+  yaz-marcdump -i marcxml -o marc missing_260_subfields.xml > missing_260_subfield.mrc
+
+  The issue is that the data field 260 has no subfields. The cause is
+  a step using XSLT that converts the record from MODS to MARCXML.
+  The template in question:
+     a) matches on a particular element type
+     b) creates the datafield 260
+     c) creates different subfields depending on certain attributes.
+
+  However, our MODS does not have any of the attributes used in step c)
+  so no subfields get created.  The MODS at this point has a
+  non-standard attribute, most likely by mistake earlier in the pipeline.
+  When trying to modify the pipeline, the invalid MARCXML caused issues.
+
+ 
