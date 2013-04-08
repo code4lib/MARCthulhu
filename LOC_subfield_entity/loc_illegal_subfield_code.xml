@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+  <record>
+    <leader>00999cam  22002655a 4500</leader>
+    <controlfield tag="001">  2002330029</controlfield>
+    <controlfield tag="003">DLC</controlfield>
+    <controlfield tag="005">20080104084046.0</controlfield>
+    <controlfield tag="008">020108s2001    le            000 0 ara  </controlfield>
+    <datafield tag="010" ind1=" " ind2=" ">
+      <subfield code="a">  2002330029</subfield>
+    </datafield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">9953210519</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(CStRLIN)DCLN02-B233</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">DLC-R</subfield>
+      <subfield code="c">DLC-R</subfield>
+      <subfield code="d">DLC</subfield>
+    </datafield>
+    <datafield tag="042" ind1=" " ind2=" ">
+      <subfield code="a">lcode</subfield>
+    </datafield>
+    <datafield tag="066" ind1=" " ind2=" ">
+      <subfield code="c">(3</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="6">880-01</subfield>
+      <subfield code="a">Shamīṭ, Walīd.</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="6">880-02</subfield>
+      <subfield code="a">Yūsuf Shāhīn :</subfield>
+      <subfield code="b">ḥayāh lil-sīnimā /</subfield>
+      <subfield code="c">Walīd Shamīṭ.</subfield>
+    </datafield>
+    <datafield tag="250" ind1=" " ind2=" ">
+      <subfield code="6">880-03</subfield>
+      <subfield code="a">al-Ṭabʻah 1.</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="6">880-04</subfield>
+      <subfield code="a">Beirut :</subfield>
+      <subfield code="b">Riyāḍ al-Rayyis lil-Kutub wa-al-Nashr,</subfield>
+      <subfield code="c">2001.</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">265 p. ;</subfield>
+      <subfield code="c">22 cm.</subfield>
+    </datafield>
+    <datafield tag="520" ind1=" " ind2=" ">
+      <subfield code="a">Shāhīn, Yūsuf; Egyptian film director; motion picture; Egypt; history and criticism.</subfield>
+    </datafield>
+    <datafield tag="880" ind1="1" ind2=" ">
+      <subfield code="6">100-01/(3/r</subfield>
+      <subfield code="a">شميط، وليد.</subfield>
+    </datafield>
+    <datafield tag="880" ind1="1" ind2="0">
+      <subfield code="6">245-02/(3/r</subfield>
+      <subfield code="a">يوسف شاهين :</subfield>
+      <subfield code="b">حياة للسينما /</subfield>
+      <subfield code="c">وليد شميط.</subfield>
+    </datafield>
+    <datafield tag="880" ind1=" " ind2=" ">
+      <subfield code="6">250-03/(3/r</subfield>
+      <subfield code="a">الطبعة 1.</subfield>
+    </datafield>
+    <datafield tag="880" ind1=" " ind2=" ">
+      <subfield code="6">260-04/(3/r</subfield>
+      <subfield code="a">Beirut :</subfield>
+      <subfield code="b">رياض الريس للكتب والنشر،</subfield>
+      <subfield code="c">2001.</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>01956nam  22004214a 4500</leader>
+    <controlfield tag="001">  2008310487</controlfield>
+    <controlfield tag="003">DLC</controlfield>
+    <controlfield tag="005">20081002114026.0</controlfield>
+    <controlfield tag="008">080429s2007    ir a     b    001 0 per  </controlfield>
+    <datafield tag="010" ind1=" " ind2=" ">
+      <subfield code="a">  2008310487</subfield>
+    </datafield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">9789645896339</subfield>
+    </datafield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">9645896339</subfield>
+    </datafield>
+    <datafield tag="025" ind1=" " ind2=" ">
+      <subfield code="a">Ir-P-2008310487; 08</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">DLC</subfield>
+      <subfield code="c">DLC</subfield>
+    </datafield>
+    <datafield tag="042" ind1=" " ind2=" ">
+      <subfield code="a">lcode</subfield>
+    </datafield>
+    <datafield tag="043" ind1=" " ind2=" ">
+      <subfield code="a">a-ir---</subfield>
+    </datafield>
+    <datafield tag="050" ind1="0" ind2="0">
+      <subfield code="a">N7280</subfield>
+      <subfield code="b">.S53 2007</subfield>
+    </datafield>
+    <datafield tag="066" ind1=" " ind2=" ">
+      <subfield code="c">(3</subfield>
+      <subfield code="c">(4</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="6">880-01</subfield>
+      <subfield code="a">Shāyistahʹfar, Mahnāz.</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="6">880-02</subfield>
+      <subfield code="a">Dībāchahʹī bar hunar-i Īrānī-i Islāmī /</subfield>
+      <subfield code="c">nivīsandah, Mahnāz Shāyistahʹfar.</subfield>
+    </datafield>
+    <datafield tag="246" ind1="1" ind2=" ">
+      <subfield code="i">Title on p. [4] of cover:</subfield>
+      <subfield code="a">Introduction to Persian Islamic art</subfield>
+    </datafield>
+    <datafield tag="250" ind1=" " ind2=" ">
+      <subfield code="6">880-03</subfield>
+      <subfield code="a">Chāp-i 1.</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="6">880-04</subfield>
+      <subfield code="a">Tihrān :</subfield>
+      <subfield code="b">Intishārāt-i Muʾassasah-i Muṭālaʻāt-i Hunar-i Islāmī :</subfield>
+      <subfield code="b">Mūzih-i Hunarʹhā-yi Dīnī-i Imām ʻAlī,</subfield>
+      <subfield code="c">1386 [2007]</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">96 p. :</subfield>
+      <subfield code="b">col. ill. ;</subfield>
+      <subfield code="c">23 cm.</subfield>
+    </datafield>
+    <datafield tag="490" ind1="0" ind2=" ">
+      <subfield code="6">880-05</subfield>
+      <subfield code="a">Majmūʻah-i ās̲ār-i hunar-i Islāmī ;</subfield>
+      <subfield code="v">17</subfield>
+    </datafield>
+    <datafield tag="546" ind1=" " ind2=" ">
+      <subfield code="a">In Persian.</subfield>
+    </datafield>
+    <datafield tag="504" ind1=" " ind2=" ">
+      <subfield code="a">Includes bibliographical references (p. 91-92) and index.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Art, Islamic</subfield>
+      <subfield code="z">Iran.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Art, Iranian.</subfield>
+    </datafield>
+    <datafield tag="710" ind1="2" ind2=" ">
+      <subfield code="6">880-06</subfield>
+      <subfield code="a">Muʾassasah-i Muṭālaʻāt-i Hunar-i Islāmī.</subfield>
+    </datafield>
+    <datafield tag="710" ind1="2" ind2=" ">
+      <subfield code="6">880-07</subfield>
+      <subfield code="a">Mūzih-i Hunarʹhā-yi Dīnī-i Imām ʻAlī.</subfield>
+    </datafield>
+    <datafield tag="880" ind1="1" ind2=" ">
+      <subfield code="6">100-01/(3/r</subfield>
+      <subfield code="&#27;">(3naشايسته‌فر، مهناز.</subfield>
+    </datafield>
+    <datafield tag="880" ind1="1" ind2="0">
+      <subfield code="6">245-02/(3/r</subfield>
+      <subfield code="a">ديباچه‌اى بر هنر ايرانى اسلامى /</subfield>
+      <subfield code="c">نويسنده، مهناز شايسته‌فر.</subfield>
+    </datafield>
+    <datafield tag="880" ind1=" " ind2=" ">
+      <subfield code="6">250-03/(3/r</subfield>
+      <subfield code="a">چاپ 1.</subfield>
+    </datafield>
+    <datafield tag="880" ind1=" " ind2=" ">
+      <subfield code="6">260-04/(3/r</subfield>
+      <subfield code="a">تهران :</subfield>
+      <subfield code="b">انتشارات مؤسسه مطالعات هنر اسلامى :</subfield>
+      <subfield code="b">موزه هنرهاى دينى امام على،</subfield>
+      <subfield code="c">.1386 [2007]</subfield>
+    </datafield>
+    <datafield tag="880" ind1="0" ind2=" ">
+      <subfield code="6">490-05/(3/r</subfield>
+      <subfield code="a">مجموعه آثار هنر اسلامى ؛</subfield>
+      <subfield code="v">17</subfield>
+    </datafield>
+    <datafield tag="880" ind1="2" ind2=" ">
+      <subfield code="6">710-06/(3/r</subfield>
+      <subfield code="a">مؤسسه مطالعات هنر اسلامى.</subfield>
+    </datafield>
+    <datafield tag="880" ind1="2" ind2=" ">
+      <subfield code="6">710-07/(3/r</subfield>
+      <subfield code="a">موزه هنرهاى دينى امام على.</subfield>
+    </datafield>
+  </record>
+</collection>
