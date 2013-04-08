@@ -9,8 +9,8 @@ The source files are v36.i01.records.xml and v36.i40.records.xml.
 # Pathology
 
 The records include some properly represented Arabic script, but the real problem is that they are invalid MARCXML, 
-putting the numeric character entity "&#27;" (apostrophe)  as an 880 subfield code.  Valid values (a-z, 0-9) are defined 
-by LOC at:
+putting the numeric character entity "&#27;" (aka the Escape control character)  as an 880 subfield code.
+Valid values (a-z, 0-9) are defined by LOC at:
     http://www.loc.gov/marc/bibliographic/bd880.html
 
 The records are particularly problematic because they cause certain XML parsers to crash, notably including *marc4j*.
